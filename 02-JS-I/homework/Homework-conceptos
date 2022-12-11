@@ -1,0 +1,21 @@
+
+* Variables: Es un espacio de memoria, donde se puede almacenar datos, bien sea números, cadenas de texto, booleanos, etc. En JavaScript para declarar variables, se utilizan las palabras reservadas: var, let y const; dependiendo del tipo de variable, su valor puede cambiar.
+
+* Strings: Es una cadena de caracteres y siempre van dentro de comillas silples o dobles. 
+
+* Funciones (argumentos, `return`): Son fragmentos de códigos, que ejecutan tareas determinadas, se pueden reutilizar o invocar por su nombre, a las funciones se le pueden pasar uno o mas valores por parámetros, para ser utilizados dentro de ella y así devolver un valor final, según su estructura. 
+ 
+ Para utilizar una función , primero tiene que ser declarada con la palabra reservada “funtion” seguida del nombre. Ejemplo:
+
+Función suma(){
+	el código de la función, 
+	va dentro de las llaves.
+};
+
+-Los argumentos: son variables que declaran entre los paréntesis, para luego ser usadas dentro de la función, una función puede o no llevar argumentos. 
+
+-Return: Se utiliza para que la función, devuelva los datos que necesitemos.
+
+* Declaraciones `if`: Es la palabra reservada que se utiliza para que nuestra función verifique si se cumplen ciertas condiciones, según la finalidad de dicha función.  Se utilizan operadores lógicos y de comparación, para éste cometido.
+
+* Valores booleanos (`true`, `false`):  Son valores lógicos, verdadero o falso. Verdadero si se cumple una condición y falso si no se cumple. 
