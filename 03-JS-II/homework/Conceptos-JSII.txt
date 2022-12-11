@@ -1,0 +1,16 @@
+* `for`: Es un tipo específico de bucle, que ejecuta un bloque de código n cantidad de veces, mientras se cumpla una determinada condición, según sea su configuración. Tiene la siguiente anatomía : palabra reservada “for” seguida de paréntesis “()”, donde se colocaran tres cosas, separadas por “;” ; la primera es declarar una variable con un valor inicial, sobre el que se repetirá el bucle; la segunda es la expresión condicional, que se evalúa, mientras dicha condición se a “true” el bucle seguirá ejecutándoselo hasta que sea “false”,; y el ultimo elemento que necesitamos dentro de los paréntesis es el incremento de nuestra variable.  Luego de los “()”  siguen las “{}” , dentro de ellas ira el código a ejecutar.  
+
+Ejemplo : for ( let i = 0 ; i  < 10; i++ ) {
+	// Bloque de código que se ejecutará
+}
+
+
+* `&&`, `||`, `!`:  Son operadores lógicos, que se utilizan combinar dos expresiones de comparación. 
+
+&&: Y, AND , este operador evalúa si ambas expresiones son verdaderas y devuelve “true”, de lo contrario si una o ambas expresiones son falsas devolverá “false”.
+
+|| : O , OR,  este operador determina si una de las expresiones es verdadera y devolverá “true”, si ambas son verdaderas devolverá “true” y si ambas sol falsas devolverá “false”.
+
+!: NO, NOT,  éste operador devolverá lo contrario a los que se le pasa. 
+
+!false devuelve  = “true” porque es lo contrario de false. 
