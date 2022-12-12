@@ -1,0 +1,7 @@
+* Arrays: Arreglos o matrices, es un conjunto de datos guardados dentro de una variable, puede contener distintos tipos de datos, para luego poder utilizar esos datos. 
+  
+Anatomía de un array:
+
+var array = [2 , 4 , 5 , 5 , 5]
+
+Vas array = [“string” , 1 , true,  2 , false ]
