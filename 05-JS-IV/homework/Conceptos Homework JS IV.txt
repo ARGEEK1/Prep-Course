@@ -1,0 +1,9 @@
+* Objetos: En JavaScript todo está basado en objetos y pueden ser tratados como tal dependiendo de la situación. Un objeto es un colección  de propiedades, y una propiedad en una asociación entre un nombre y un valor, el valor de una propiedad puedes ser  cualquier tipo de datos, string, booleano, array, enteros o funciones, el caso de las funciones se les denomina métodos.
+
+* Propiedades: Son como variables adjuntas al objeto, relacionada a el y tienen valor, que puede ser cualquier tipo de datos.
+
+* Métodos: Son las propiedades, que contienen una función dentro de un objeto. Y como toda función puede ser invocado.
+
+* Bucle `for…in`: Es un tipo de bucle que itera sobre las propiedades de un objeto.
+
+* Notación de puntos vs notación de corchetes: Son las dos formas que se utilizan para acceder a las propiedades de un objeto.
